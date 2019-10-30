@@ -1,0 +1,1 @@
+Very simple image to make a periodic network request from a container - like a ping, except that ping doesn't work from a ws19 container attached to an overlay: https://success.docker.com/article/windows-overlay-ping-failure
